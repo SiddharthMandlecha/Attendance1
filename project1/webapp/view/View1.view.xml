@@ -1,0 +1,191 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="project1.controller.View1" displayBlock="true">
+
+    <Page id="page" title="{i18n>title}">
+
+        <headerContent></headerContent>
+
+        <content>
+
+            <NavContainer id="container0">
+
+                <pages>
+
+                    <Page title=" OVERVIEW " id="page0" backgroundDesign="Transparent">
+
+                        <headerContent>
+
+                            <SearchField xmlns="sap.m" placeholder="Search for ..." id="field0"/>                      
+
+                             </headerContent>
+
+                        <SegmentedButton xmlns="sap.m" selectedKey="one" id="button0">
+
+                            <items>
+
+                                <SegmentedButtonItem text="Calendar" key="one" id="item1" width="58%" icon="sap-icon://calendar" textDirection="LTR" press="onPressCalendar"/>
+
+                                <SegmentedButtonItem text="Items" key="two" id="item2" icon="sap-icon://activity-items" width="58%" press="onPressItems"/>
+
+                            </items>
+
+                        </SegmentedButton>
+
+                        <sap.ui.unified:Calendar xmlns:sap.ui.unified="sap.ui.unified" id="calendar1" showWeekNumbers="false" months="2" width="100%" firstDayOfWeek="0" busyIndicatorDelay="10"/>
+
+                        <CalendarLegend xmlns="sap.ui.unified" id="legend1">
+
+                            <items>
+
+                                <CalendarLegendItem text="Absent" type="Type01" id="item3" color="red"/>
+
+                                <CalendarLegendItem text="Present " type="Type02" id="item4" color="green"/>
+
+                                <CalendarLegendItem text="EC - Mispunch" type="Type03" id="item5" color="yellow"/>
+
+                                <CalendarLegendItem text="Weekly Off" type="Type04" id="item6" color="brown"/>
+
+                            </items>
+
+                        </CalendarLegend>
+
+                        <Table id="table1" headerText="ITEMS" growing="true" sticky="ColumnHeaders" items="{Attendances>/Attendances}" alternateRowColors="true" backgroundDesign="Solid" growingScrollToLoad="true" growingThreshold="100" inset="true">
+
+                            <columns>
+
+                                <Column id="column0">
+
+                                    <header>
+
+                                        <Text text="Date" id="text0" textAlign="Center"/>
+
+                                    </header>
+
+                                </Column>
+
+                                <Column id="column1">
+
+                                    <header>
+
+                                        <Text text="Day" id="text1" textAlign="Center"/>
+
+                                    </header>
+
+                                </Column>
+
+                                <Column id="column2">
+
+                                    <header>
+
+                                        <Text text="Emp ID" id="text2"/>
+
+                                    </header>
+
+                                </Column>
+
+                                <Column id="column3">
+
+                                    <header>
+
+                                        <Text text="Emp Name" id="text3"/>
+
+                                    </header>
+
+                                </Column>
+
+                                <Column id="column4">
+
+                                    <header>
+
+                                        <Text text="Shift Desc" id="text4"/>
+
+                                    </header>
+
+                                </Column>
+
+                                <Column id="column5">
+
+                                    <header>
+
+                                        <Text text="Punch In Time" id="text5"/>
+
+                                    </header>
+
+                                </Column>
+
+                                <Column id="column6">
+
+                                    <header>
+
+                                        <Text text="Punch Out Time" id="text6"/>
+
+                                    </header>
+
+                                </Column>
+
+                                <Column id="column7">
+
+                                    <header>
+
+                                        <Text text="Total Hours Worked" id="text7"/>
+
+                                    </header>
+
+                                </Column>
+
+                                <Column id="column8">
+
+                                    <header>
+
+                                        <Text text="Attendance Status" id="text8"/>
+
+                                    </header>
+
+                                </Column>
+
+                            </columns>
+
+                            <items>
+
+                                <ColumnListItem type="Active">
+
+                                    <cells>
+
+                                        <Text text="{Attendances>Date}"/>
+
+                                        <Text text="{Attendances>Day}"/>
+
+                                        <Text text="{Attendances>Emp ID}"/>
+
+                                        <Text text="{Attendances>Emp Name}"/>
+
+                                        <Text text="{Attendances>Shift Desc}"/>
+
+                                        <Text text="{Attendances>Punch In Time}"/>
+
+                                        <Text text="{Attendances>Punch Out Time}"/>
+
+                                        <Text text="{Attendances>Total Hours Worked}"/>
+
+                                        <Text text="{Attendances>Attendance Status}"/>
+
+                                    </cells>
+
+                                </ColumnListItem>
+
+                            </items>
+
+                        </Table>
+
+                    </Page>
+
+                    <Page title="Page 2" id="page1"/>
+
+                </pages>
+
+            </NavContainer>
+
+        </content>
+
+    </Page>
+
+</mvc:View>

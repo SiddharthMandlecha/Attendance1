@@ -1,0 +1,729 @@
+[{
+
+    "Attendances": [
+  
+      {
+  
+        "Date": "23.02.2024",
+  
+        "Day": "Friday",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "20:22:42",
+  
+        "Punch Out Time": "00:00:00",
+  
+        "Total Hours Worked": "",
+  
+        "Attendance Status": "EC - Mispunch"
+  
+      },
+  
+      {
+  
+        "Date": "26.02.2024",
+  
+        "Day": "Monday",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "09:14:25",
+  
+        "Punch Out Time": "18:40:34",
+  
+        "Total Hours Worked": "09:26:09",
+  
+        "Attendance Status": "Present"
+  
+      },
+  
+      {
+  
+        "Date": "27.02.2024",
+  
+        "Day": "Tuesday",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "09:17:33",
+  
+        "Punch Out Time": "19:56:12",
+  
+        "Total Hours Worked": "10:38:39",
+  
+        "Attendance Status": "Absent"
+  
+      },
+  
+      {
+  
+        "Date": "28.02.2024",
+  
+        "Day": "Wed.",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "09:19:07",
+  
+        "Punch Out Time": "20:06:24",
+  
+        "Total Hours Worked": "10:47:17",
+  
+        "Attendance Status": "Present"
+  
+      },
+  
+      {
+  
+        "Date": "01.03.2024",
+  
+        "Day": "Friday",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "09:30:42",
+  
+        "Punch Out Time": "20:45:52",
+  
+        "Total Hours Worked": "11:15:10",
+  
+        "Attendance Status": "Present"
+  
+      },
+  
+      {
+  
+        "Date": "04.03.2024",
+  
+        "Day": "Monday",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "09:11:09",
+  
+        "Punch Out Time": "19:43:13",
+  
+        "Total Hours Worked": "10:32:04",
+  
+        "Attendance Status": "Present"
+  
+      },
+  
+      {
+  
+        "Date": "05.03.2024",
+  
+        "Day": "Tuesday",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "09:07:33",
+  
+        "Punch Out Time": "19:40:08",
+  
+        "Total Hours Worked": "10:32:35",
+  
+        "Attendance Status": "Absent"
+  
+      },
+  
+      {
+  
+        "Date": "06.03.2024",
+  
+        "Day": "Wed.",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "08:45:12",
+  
+        "Punch Out Time": "20:25:52",
+  
+        "Total Hours Worked": "11:40:40",
+  
+        "Attendance Status": "Present"
+  
+      },
+  
+      {
+  
+        "Date": "07.03.2024",
+  
+        "Day": "Thursday",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "09:14:27",
+  
+        "Punch Out Time": "19:53:41",
+  
+        "Total Hours Worked": "10:39:14",
+  
+        "Attendance Status": "Present"
+  
+      },
+  
+      {
+  
+        "Date": "08.03.2024",
+  
+        "Day": "Friday",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "19:59:19",
+  
+        "Punch Out Time": "00:00:00",
+  
+        "Total Hours Worked": "",
+  
+        "Attendance Status": "EC - Mispunch"
+  
+      },
+  
+      {
+  
+        "Date": "11.03.2024",
+  
+        "Day": "Monday",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "09:02:54",
+  
+        "Punch Out Time": "20:42:45",
+  
+        "Total Hours Worked": "11:39:51",
+  
+        "Attendance Status": "Present"
+  
+      },
+  
+      {
+  
+        "Date": "12.03.2024",
+  
+        "Day": "Tuesday",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "08:59:06",
+  
+        "Punch Out Time": "20:15:59",
+  
+        "Total Hours Worked": "11:16:53",
+  
+        "Attendance Status": "Present"
+  
+      },
+  
+      {
+  
+        "Date": "13.03.2024",
+  
+        "Day": "Wed.",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "09:34:08",
+  
+        "Punch Out Time": "20:02:01",
+  
+        "Total Hours Worked": "10:27:53",
+  
+        "Attendance Status": "Absent"
+  
+      },
+  
+      {
+  
+        "Date": "14.03.2024",
+  
+        "Day": "Thursday",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "09:24:36",
+  
+        "Punch Out Time": "20:49:55",
+  
+        "Total Hours Worked": "11:25:19",
+  
+        "Attendance Status": "Present"
+  
+      },
+  
+      {
+  
+        "Date": "15.03.2024",
+  
+        "Day": "Friday",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "09:18:04",
+  
+        "Punch Out Time": "19:56:53",
+  
+        "Total Hours Worked": "10:38:49",
+  
+        "Attendance Status": "Present"
+  
+      },
+  
+      {
+  
+        "Date": "18.03.2024",
+  
+        "Day": "Monday",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "09:17:59",
+  
+        "Punch Out Time": "20:21:24",
+  
+        "Total Hours Worked": "11:03:25",
+  
+        "Attendance Status": "Present"
+  
+      },
+  
+      {
+  
+        "Date": "19.03.2024",
+  
+        "Day": "Tuesday",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "09:21:35",
+  
+        "Punch Out Time": "20:40:38",
+  
+        "Total Hours Worked": "11:19:03",
+  
+        "Attendance Status": "Present"
+  
+      },
+  
+      {
+  
+        "Date": "20.03.2024",
+  
+        "Day": "Wed.",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "09:38:37",
+  
+        "Punch Out Time": "00:00:00",
+  
+        "Total Hours Worked": "",
+  
+        "Attendance Status": "Missed Punch"
+  
+      },
+  
+      {
+  
+        "Date": "21.03.2024",
+  
+        "Day": "Thursday",
+  
+        "Emp ID": "00103422",
+  
+        "Emp Name": "Srinivasa Rao Chakka",
+  
+        "Shift Desc": "GENSH_2",
+  
+        "Punch In Time": "09:54:53",
+  
+        "Punch Out Time": "20:54:29",
+  
+        "Total Hours Worked": "10:59:36",
+  
+        "Attendance Status": "Present"
+  
+      },
+  
+        {
+  
+          "Date": "01.04.2024",
+  
+          "Day": "Monday",
+  
+          "Emp ID": "00103422",
+  
+          "Emp Name": "Srinivasa Rao Chakka",
+  
+          "Shift Desc": "GENSH_2",
+  
+          "Punch In Time": "09:30:42",
+  
+          "Punch Out Time": "20:45:52",
+  
+          "Total Hours Worked": "11:15:10",
+  
+          "Attendance Status": "Present"
+  
+        },
+  
+        {
+  
+          "Date": "02.04.2024",
+  
+          "Day": "Tuesday",
+  
+          "Emp ID": "00103422",
+  
+          "Emp Name": "Srinivasa Rao Chakka",
+  
+          "Shift Desc": "GENSH_2",
+  
+          "Punch In Time": "09:00:00",
+  
+          "Punch Out Time": "19:00:00",
+  
+          "Total Hours Worked": "10:00:00",
+  
+          "Attendance Status": "Present"
+  
+        },
+  
+        {
+  
+          "Date": "03.04.2024",
+  
+          "Day": "Wednesday",
+  
+          "Emp ID": "00103422",
+  
+          "Emp Name": "Srinivasa Rao Chakka",
+  
+          "Shift Desc": "GENSH_2",
+  
+          "Punch In Time": "10:00:00",
+  
+          "Punch Out Time": "18:00:00",
+  
+          "Total Hours Worked": "08:00:00",
+  
+          "Attendance Status": "Present"
+  
+        },
+  
+        {
+  
+          "Date": "04.04.2024",
+  
+          "Day": "Thursday",
+  
+          "Emp ID": "00103422",
+  
+          "Emp Name": "Srinivasa Rao Chakka",
+  
+          "Shift Desc": "GENSH_2",
+  
+          "Punch In Time": "09:30:00",
+  
+          "Punch Out Time": "17:30:00",
+  
+          "Total Hours Worked": "08:00:00",
+  
+          "Attendance Status": "Present"
+  
+        },
+  
+        {
+  
+          "Date": "05.04.2024",
+  
+          "Day": "Friday",
+  
+          "Emp ID": "00103422",
+  
+          "Emp Name": "Srinivasa Rao Chakka",
+  
+          "Shift Desc": "GENSH_2",
+  
+          "Punch In Time": "09:00:00",
+  
+          "Punch Out Time": "18:00:00",
+  
+          "Total Hours Worked": "09:00:00",
+  
+          "Attendance Status": "Present"
+  
+        },
+  
+        {
+  
+          "Date": "06.04.2024",
+  
+          "Day": "Saturday",
+  
+          "Emp ID": "00103422",
+  
+          "Emp Name": "Srinivasa Rao Chakka",
+  
+          "Shift Desc": "GENSH_2",
+  
+          "Punch In Time": "10:00:00",
+  
+          "Punch Out Time": "16:00:00",
+  
+          "Total Hours Worked": "06:00:00",
+  
+          "Attendance Status": "Absent"
+  
+        },
+  
+        {
+  
+          "Date": "07.04.2024",
+  
+          "Day": "Sunday",
+  
+          "Emp ID": "00103422",
+  
+          "Emp Name": "Srinivasa Rao Chakka",
+  
+          "Shift Desc": "GENSH_2",
+  
+          "Punch In Time": "11:00:00",
+  
+          "Punch Out Time": "15:00:00",
+  
+          "Total Hours Worked": "04:00:00",
+  
+          "Attendance Status": "Weekly Off"
+  
+        },
+  
+        {
+  
+          "Date": "08.04.2024",
+  
+          "Day": "Monday",
+  
+          "Emp ID": "00103422",
+  
+          "Emp Name": "Srinivasa Rao Chakka",
+  
+          "Shift Desc": "GENSH_2",
+  
+          "Punch In Time": "09:00:00",
+  
+          "Punch Out Time": "18:00:00",
+  
+          "Total Hours Worked": "09:00:00",
+  
+          "Attendance Status": "Present"
+  
+        },
+  
+        {
+  
+          "Date": "09.04.2024",
+  
+          "Day": "Tuesday",
+  
+          "Emp ID": "00103422",
+  
+          "Emp Name": "Srinivasa Rao Chakka",
+  
+          "Shift Desc": "GENSH_2",
+  
+          "Punch In Time": "10:30:00",
+  
+          "Punch Out Time": "19:30:00",
+  
+          "Total Hours Worked": "09:00:00",
+  
+          "Attendance Status": "Absent"
+  
+        },
+  
+        {
+  
+          "Date": "10.04.2024",
+  
+          "Day": "Wednesday",
+  
+          "Emp ID": "00103422",
+  
+          "Emp Name": "Srinivasa Rao Chakka",
+  
+          "Shift Desc": "GENSH_2",
+  
+          "Punch In Time": "09:30:00",
+  
+          "Punch Out Time": "17:30:00",
+  
+          "Total Hours Worked": "08:00:00",
+  
+          "Attendance Status": "Present"
+  
+        },
+  
+        {
+  
+          "Date": "11.04.2024",
+  
+          "Day": "Thursday",
+  
+          "Emp ID": "00103422",
+  
+          "Emp Name": "Srinivasa Rao Chakka",
+  
+          "Shift Desc": "GENSH_2",
+  
+          "Punch In Time": "09:00:00",
+  
+          "Punch Out Time": "18:00:00",
+  
+          "Total Hours Worked": "09:00:00",
+  
+          "Attendance Status": "Weekly Off"
+  
+        },
+  
+        {
+  
+          "Date": "12.04.2024",
+  
+          "Day": "Friday",
+  
+          "Emp ID": "00103422",
+  
+          "Emp Name": "Srinivasa Rao Chakka",
+  
+          "Shift Desc": "GENSH_2",
+  
+          "Punch In Time": "09:00:00",
+  
+          "Punch Out Time": "17:30:00",
+  
+          "Total Hours Worked": "08:30:00",
+  
+          "Attendance Status": "EC - Mispunch"
+  
+        },
+  
+        {
+  
+          "Date": "13.04.2024",
+  
+          "Day": "Saturday",
+  
+          "Emp ID": "00103422",
+  
+          "Emp Name": "Srinivasa Rao Chakka",
+  
+          "Shift Desc": "GENSH_2",
+  
+          "Punch In Time": "10:00:00",
+  
+          "Punch Out Time": "16:00:00",
+  
+          "Total Hours Worked": "06:00:00",
+  
+          "Attendance Status": "Present"
+  
+        },
+  
+        {
+  
+          "Date": "14.04.2024",
+  
+          "Day": "Sunday",
+  
+          "Emp ID": "00103422",
+  
+          "Emp Name": "Srinivasa Rao Chakka",
+  
+          "Shift Desc": "GENSH_2",
+  
+          "Punch In Time": "11:00:00",
+  
+          "Punch Out Time": "15:00:00"
+  
+        }    
+  
+    ]
+  
+  }]
