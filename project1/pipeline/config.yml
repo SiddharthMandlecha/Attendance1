@@ -1,0 +1,42 @@
+---
+general:
+  buildTool: "npm"
+service:
+  buildToolVersion: "N22"
+  stages:
+    Acceptance:
+      cfCredentialsId: "sangram"
+    Release:
+      cfCredentialsId: "sangram"
+stages:
+  Build:
+    mavenExecuteStaticCodeChecks: true
+    npmExecuteLint: true
+  Acceptance:
+    cfApiEndpoint: "https://api.cf.ap21.hana.ondemand.com"
+    cfOrg: "d7065b03trial"
+    cfSpace: "dev"
+    deployType: "standard"
+    cloudFoundryDeploy: true
+    npmExecuteEndToEndTests: false
+  Malware Scan:
+    malwareExecuteScan: false
+  Release:
+    tmsExport: false
+    tmsUpload: false
+    cfApiEndpoint: "https://api.cf.ap21.hana.ondemand.com"
+    cfOrg: "d7065b03trial"
+    cfSpace: "dev"
+    deployType: "standard"
+    cloudFoundryDeploy: true
+  Additional Unit Tests:
+    npmExecuteScripts: false
+  Compliance:
+    sonarExecuteScan: false
+steps:
+  cloudFoundryDeploy:
+    mtaDeployParameters: "-f --version-rule ALL"
+  npmExecuteLint:
+    failOnError: false
+  artifactPrepareVersion:
+    versioningType: "cloud_noTag"
